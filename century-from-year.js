@@ -7,3 +7,5 @@ function century(year) {
         return year;
     }
 }
+
+console.log(century(2015))
